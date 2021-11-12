@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.github.mxab
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle_kotlin
+features: [annotation-api, app-name, github-workflow-docker-registry, gradle, http-client, java, java-application, junit, logback, netty-server, readme, shade, views-thymeleaf, yaml]
